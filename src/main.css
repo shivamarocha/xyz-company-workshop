@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: rgb(95, 155, 95);
+}
+#companyName {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 8rem;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+#cactus {
+  width: 250px;
+  border: 35px solid white;
+}
+#info1 {
+  font-size: 20px;
+}
+#info2 {
+  font-size: 20px;
+}
+#info3 {
+  font-size: 20px;
+}
+.product-item {
+  text-align: center;
+  background-color: rgb(95, 155, 95);
+  width: 252px;
+  border: solid 2x silver;
+}
+.atc-button {
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+}
